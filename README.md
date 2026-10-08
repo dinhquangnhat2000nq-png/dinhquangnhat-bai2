@@ -16,5 +16,7 @@
 
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
+<img width="1685" height="742" alt="Ảnh chụp màn hình 2026-10-08 131521" src="https://github.com/user-attachments/assets/0a60f1a1-4ada-4958-890f-7753329b7050" />
+
 <img width="1747" height="848" alt="Ảnh chụp màn hình 2026-10-08 131556" src="https://github.com/user-attachments/assets/7c0a19c7-ad38-41db-855c-39b95554f57a" />
 
